@@ -1,0 +1,140 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1 {
+  margin: 70px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #F2789F;
+  line-height: 2;
+}
+
+h2 {
+  margin: 0 auto 90px auto;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #F582A7;
+  font-weight: normal;
+  padding-bottom: 10px;
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #F999B7;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 6px;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.Top-Container {
+  background-color: #FEE3EC;
+  position: relative;
+  padding-top: 50px;
+}
+
+.middle-container {
+  padding: 100px 0;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.computer {
+  height: 200px;
+  width: 25%;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.cake {
+  height: 200px;
+  width: 25%;
+  border-radius: 50%;
+  float: right;
+  margin-right: 30px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 250px;
+}
+
+.bottom-container {
+  background-color: #F582A7;
+  padding: 50px 0 20px;
+}
+
+a {
+  color: #F10086;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+}
+
+.copyright {
+  color: white;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.btn {
+  background: #F73D93;
+  background-image: linear-gradient(to bottom, #F73D93, #f21f82);
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ff0abe;
+  background-image: linear-gradient(to bottom, #ff0abe, #ff08f7);
+  text-decoration: none;
+}
+
+.mountain {
+  height: 200px;
+  width: 400px;
+}
