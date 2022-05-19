@@ -70,7 +70,7 @@ hr {
 .computer {
   height: 200px;
   width: 25%;
-  border-radius: 50%;
+  border-radius: 100%;
   float: left;
   margin-right: 30px;
 }
@@ -78,7 +78,7 @@ hr {
 .cake {
   height: 200px;
   width: 25%;
-  border-radius: 50%;
+  border-radius: 100%;
   float: right;
   margin-right: 30px;
 }
